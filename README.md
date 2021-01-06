@@ -7,8 +7,6 @@ CodePath Pre-Work submission for Intro to Mobile Development course
 ### App Walk-though
 ![](https://i.imgur.com/BSIBnZ5.gif)
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
-
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
 - [X] 2. User see's custom background color.
